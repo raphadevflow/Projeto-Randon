@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    background-color: black;
+}
+
+
+img {
+    width: 700px;
+    height: 400px;
+    margin-top: 156px;
+    margin-left:575px;
+}
+
+h1 {
+    width: 583px;
+    height: 374px;
+    margin-top: -120px;
+    margin-left: 640px;
+    font-size:120px;
+    color: #f0f8ff;
+}
+
+p { 
+    color: aliceblue;
+    Width:280px;
+    Height:5px;
+    padding-top: 100px;
+    margin-top: -295px;
+    margin-left:795px;
+    font-size:32px;
+    margin-bottom: -25px;
+    font-weight: 350;
+}
+
+button{
+    Width:342px;
+    Height:72px;
+    margin-top:70px;
+    margin-left:765px;
+    border: none;
+    border-radius:10px;
+    color: 
+    rgba(255, 255, 255, 1);
+    background-color: 
+    rgba(174, 195, 70, 1);
+    font-weight: 700; 
+    font-size:36px;
+    line-height:2.5px;
+    box-shadow: 0px 18px 40px 0px rgba(174, 195, 70, 0.35);
+    cursor: pointer;
+}
+
+button:hover{
+    opacity: 0.8;
+}
+
+button:active {
+    opacity: 0.6;
+}
+
+div {
+    margin-left: 560px;
+    padding-top: -100px;
+    
+}
+
+.input1, .input2 {
+    Width:342px;
+    Height:74px;
+    border-radius: 14px;
+    border: none;
+    margin-top: 80px;
+    font-size: 40px;
+    background-color: rgba(255, 255, 255, 0.25);
+    padding-left: 15px;
+    color: rgb(243, 238, 238);
+}
+
+.input1 {
+    margin-right: 62px;
+}
+
